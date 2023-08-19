@@ -1,0 +1,7 @@
+set selection-clipboard clipboard
+set synctex true
+set synctex-editor-command "code -g %{input}:%{line}"
+set guioptions "v"
+set adjust-open "width"
+set window-title-basename true
+set window-title-page true
